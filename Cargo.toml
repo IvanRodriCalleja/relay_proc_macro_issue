@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "crates/schema",
+  "crates/relay_derive",
+  "crates/relay_spec"
+]
